@@ -1,1 +1,2 @@
 esto funciona con git
+asi funciona git
